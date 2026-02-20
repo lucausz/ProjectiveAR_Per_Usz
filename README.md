@@ -6,3 +6,11 @@ En l'absence d'un vidéoprojecteur physique pour réaliser les tests, le systèm
 Calibration de la caméra et Zone de Silence (Quiet Zone) : Lors de l'étape de calibration de la caméra, la méthode drawBlack() du projecteur a été modifiée pour générer et afficher les 4 marqueurs ArUco directement à l'écran. Pour permettre leur détection, un fond blanc (cst.WHITE) et des marges ont été ajoutés afin de respecter la "zone de silence" indispensable à l'algorithme ArUco.
 
 Pour la détéction de mouvement, nous avons utilisé une gomette que nous collions sur l'écran de l'ordinateur.
+
+Vidéo de démonstration : 
+
+
+
+https://github.com/user-attachments/assets/3e07aa57-8132-4552-9c1c-137f21615437
+
+
